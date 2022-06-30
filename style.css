@@ -33,3 +33,17 @@ main{
 .blog-image h6{
     padding-left: 20px;
 }
+.courses{
+    background-color: aliceblue;
+    max-width:840px;
+}
+.card-text{
+    color: red;
+}
+.ratings i{
+    color: yellow;
+}
+.ratings img {
+    width: 21px;
+    
+}
