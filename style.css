@@ -1,0 +1,35 @@
+.navbar-brand img{
+    width: 40px;
+}
+a.navbar-image img {
+    width: 40px;
+}
+img{
+    width: 46px;
+}
+a.nav-link {
+    color: #ffff;
+}
+.navbar-toggler-icon{
+    color: aliceblue;
+}
+main{
+    max-width:840px;
+    background-color: bisque;
+}
+.top-player{
+    background-color:aliceblue ;
+    
+    /* padding-bottom: 10rem; */
+    
+    
+}
+.names{
+    padding-left: 20px;
+}
+.blog-image img{
+    width: 200px;
+}
+.blog-image h6{
+    padding-left: 20px;
+}
